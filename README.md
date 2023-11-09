@@ -1,1 +1,1 @@
-# OpenAdsStandards
+# Open Ads Standards
